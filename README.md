@@ -9,6 +9,7 @@ Proyek ini mengintegrasikan perangkat ESP32, sensor, aplikasi web Laravel, basis
 - Pemantauan status gerbang kereta api secara real-time
 - Pemantauan sensor deteksi kereta api
 - Dasbor berbasis web
+- Penutup dan membuka palang kereta secara manual melalui web dashboard
 - Pencatatan dan riwayat data
 - Integrasi basis data MySQL
 - Penyebaran VPS menggunakan Ubuntu Server
