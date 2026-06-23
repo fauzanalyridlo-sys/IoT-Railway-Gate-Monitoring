@@ -1,7 +1,7 @@
 # Sistem Pemantauan IoT Palang Kereta Api Otomatis
 
 ## Gambaran Umum
-Sistem Pemantauan IoT Gerbang Kereta Api Pintar adalah platform pemantauan dan kontrol berbasis web untuk gerbang perlintasan kereta api otomatis.
+Sistem Pemantauan IoT Gerbang Kereta Api Otomatis adalah platform pemantauan dan kontrol berbasis web untuk gerbang perlintasan kereta api otomatis.
 
 Proyek ini mengintegrasikan perangkat ESP32, sensor, aplikasi web Laravel, basis data MySQL, dan penyebaran VPS Ubuntu untuk menyediakan pemantauan dan manajemen operasi gerbang kereta api secara real-time.
 
