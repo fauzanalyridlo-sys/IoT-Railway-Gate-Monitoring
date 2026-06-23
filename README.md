@@ -1,58 +1,50 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Sistem Pemantauan IoT Palang Kereta Api Otomatis
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Gambaran Umum
+Sistem Pemantauan IoT Gerbang Kereta Api Pintar adalah platform pemantauan dan kontrol berbasis web untuk gerbang perlintasan kereta api otomatis.
 
-## About Laravel
+Proyek ini mengintegrasikan perangkat ESP32, sensor, aplikasi web Laravel, basis data MySQL, dan penyebaran VPS Ubuntu untuk menyediakan pemantauan dan manajemen operasi gerbang kereta api secara real-time.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Fitur
+- Pemantauan status gerbang kereta api secara real-time
+- Pemantauan sensor deteksi kereta api
+- Dasbor berbasis web
+- Pencatatan dan riwayat data
+- Integrasi basis data MySQL
+- Penyebaran VPS menggunakan Ubuntu Server
+- Antarmuka pengguna responsif
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Teknologi yang Digunakan
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Backend
+- Laravel
+- PHP
+- REST API
 
-## Learning Laravel
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### Basis Data
+- MySQL
 
-In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### Infrastruktur
+- Ubuntu Server
+- Hosting VPS
+- apache2
 
-You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
+### IoT
+- ESP32
+- Sensor Gerbang Kereta Api
 
-## Agentic Development
+## Kontribusi Saya
+- Mengembangkan aplikasi backend Laravel
+- Merancang dan mengimplementasikan basis data MySQL
+- Mengkonfigurasi penyebaran Ubuntu VPS
+- Mengkonfigurasi server web apache2
+- Mengintegrasikan Komunikasi perangkat IoT dengan aplikasi web
 
-Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
-
-```bash
-composer require laravel/boost --dev
-
-php artisan boost:install
-```
-
-Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Status
+Proyek Akademik - Fakultas Vokasi, Universitas Brawijaya
